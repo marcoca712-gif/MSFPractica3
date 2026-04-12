@@ -1,5 +1,5 @@
 
-# Práctica3: Sistema: musculoesquelético
+# Práctica 3: Sistema: musculoesquelético
 
 ## Información del estudiante
 
