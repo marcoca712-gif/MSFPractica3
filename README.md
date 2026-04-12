@@ -1,5 +1,5 @@
 
-# Práctica: Sistema: musculoesquelético
+# Práctica3: Sistema: musculoesquelético
 
 ## Información del estudiante
 
@@ -43,12 +43,12 @@ El sistema presenta un comportamiento de primer orden. En el caso patológico, l
 
 ## Lista de archivos incluidos en el repositorio
 
-Cuaderno computacional de MATLAB [.mlx].
-Modelo de Simulink [.slx].
-Archivo de Spyder [.py].
-Imágenes de las gráficas control vs caso [.pdf].
-Evidencia del análisis matemático.
-Modelo fisiológico en Biorender o BioArt.
+1.Cuaderno computacional de MATLAB [.mlx].
+2.Modelo de Simulink [.slx].
+3.Archivo de Spyder [.py].
+4.Imágenes de las gráficas control vs caso [.pdf].
+5.Evidencia del análisis matemático.
+6.Modelo fisiológico en Biorender o BioArt.
 
 
 ## Referencias
